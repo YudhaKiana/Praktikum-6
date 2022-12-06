@@ -86,13 +86,13 @@ while True:
     else:
         print("PILIHAN MENU TIDAK ADA!")
         
-        ```
+```
 
 
 
 
         
-        ![](SS%20Praktikum%206/2022-12-06.png)
+![img](gambar/2022-12-06.png)
 
 
 
@@ -100,4 +100,12 @@ while True:
         
         
         
-        ![](SS%20Praktikum%206/flowchart.png)
+        
+        
+        
+        
+        
+        
+        
+        
+![img](gambar/flowchart.png)
