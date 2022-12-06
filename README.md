@@ -92,7 +92,7 @@ while True:
 
 
         
-        ![](/SS%20Praktikum%206/2022-12-06.png)
+        ![](SS%20Praktikum%206/2022-12-06.png)
 
 
 
@@ -100,4 +100,4 @@ while True:
         
         
         
-        ![](/SS%20Praktikum%206/flowchart.png)
+        ![](SS%20Praktikum%206/flowchart.png)
