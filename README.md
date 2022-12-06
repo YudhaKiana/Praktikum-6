@@ -7,6 +7,8 @@ Kelas: TI.22.A4
 
 Praktikum 
 
+```sh
+
 dataMahasiswa = {}
 
 print("=" * 65)
@@ -83,10 +85,19 @@ while True:
         exit()
     else:
         print("PILIHAN MENU TIDAK ADA!")
+        
+        ```
 
 
+
+
+        
         ![](/SS%20Praktikum%206/2022-12-06.png)
 
 
 
+        
+        
+        
+        
         ![](/SS%20Praktikum%206/flowchart.png)
